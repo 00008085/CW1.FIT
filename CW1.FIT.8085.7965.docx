@@ -1,0 +1,107 @@
+Contents
+Introduction	2
+Review of hardware and solutions	2
+Hardware	2
+Software	2
+Table	3
+Justification and recommendation	6
+Conclusion	7
+GitHub	7
+Google Docs	7
+Reference	8
+
+ 
+Introduction 
+Nowadays, technology is making a significant impact on changing the world and easing jobs of individuals. And new small companies are being started every day. One of them, a new start-up, which specializes in making mobile applications for both Android systems and IOs systems, wants to gain modern software and hardware tools for creating new programs in the given areas. As many of start-ups are, this start-up is not big and does not need lots of tools or other things. However, it is significantly advised that new software and hardware tools, computers and servers should be targeted to achieve a great development process which contains five important aspects of it: prototyping, design, project management, development process, and also testing process. Furthermore, while making the list, urges of all other development team members such as project manager, tester or programmer should be taken into account. 
+Review of hardware and solutions  
+Hardware
+If we give some info about mobile app development: “Mobile app development is basically the process or action through which a specific mobile application is developed for different mobile devices, like mobile phones, personal digital assistants, etc. Mobile apps can actually be pre-installed on particular phones throughout manufacturing platforms, and they can also be delivered as concrete web apps which use client-side or server-side processing to get to provide a similar experience with a web browser” (Romano, A. 2019). So, as IT consultancy company, it is highly recommended that the start-up company should be provided appropriate hardware tools and packs. Taking into account that this company builds both Android and IOs apps, iMac desktops and Windows PCs are recommended to the team. Because both of them have their limitations and great advantages. For example, Windows PCs are easy to collect and it can be built manually, but for IOs development, they cannot be used. Also, iMacs can be used both Android or IOs systems, it’s hard to customize iMacs configuration.
+When it comes to reference more specifically, the recommended CPU is a quad-core i5 processor and RAM is 8GB.  And most of programmers and designers need bigger screens because it is easier working with lots of apps simultaneously. And also, retina displays make more quality in performance. For servers, cloud servers are today’s most popular and safe servers. For example, Google App Engine and Amazon AWS. Also, the company can create their own server for their all apps. And more information is given in the table below. 
+Software
+In this section, software and hardware recommendations are given according to team members which are designers, developers, project managers and testers.
+In starting of any new app, there should be appropriate design for this application. And also, it’s beneficial for marketing and UI aspects. And in order to choose the appropriate version of prototyping tools, they are some factors which should be evaluated. They are learning curve, sharing, usage, ease of use, cost and fidelity. Taking into account these factors, we can recommend a few tools such as InVision, Adobe Experience Design (Xd), Origami Studio, Sketch, Adobe Photoshop and so on. They provide easy collaboration among team members and also have cost benefits.
+And picking up the appropriate development tools and packs is very essential for making great applications. Because it is the main aspect of this process. There are two types of mobile development tools which are native mobile development tools and cross-platform mobile tools. For native tools, XCode, Android Studio and AppCode are great tools for usage. For cross-platform tools, Ionic, BuildFire.js and Xamarin are nice tools. They both can provide lots of comfortabilities for programmers. For example, in Xcode there is live rendering function makes hand-written UI code in canvas, and instantly changes when typing in Code. Or Android studio gives code shortcuts, and also provides drag and drop features for designing projects.
+  Managing projects is also one of the crucial parts of app development and without this aspect, app development cannot be imagined. Best practices of project management tools are Basecamp, Trello, Jira, Github and Wrike. They help to divide tasks easily among team members, time management, share files and images, planning sprints, manage issues, track project performance, create descriptions and provide instructions and comments to tasks and so on.  With that kind of tools, managing part of work can be significantly easy and accurate for evaluation purposes.
+Testing what you made is also one of the important parts of app making process. Because any app may have bugs or the parts which no one cared about or were given small attention. And in this case this kind of tools makes our job more efficient and shows what is what. Selenium, TestingWhiz, HPE Unified Functional Testing and TestComplete are best examples of testing tools. For instance, Selenium is a testing framework used for various platforms like Windows, Mac or Linux. And also it helps team testers to write tests in several programming languages such as Python, PHP, Groovy, Perl, Java and so on. Or TestingWhiz can offer lots of crucial features like browser extension testing, SMTP Integration, or integration with bug tracking tools such as Jira, Mantis or FogBugz.  
+When it comes to infrastructure as a service (IaaS), one of the given solutions is Amazon Web Services (AWS). It provides on-demand cloud computing platforms and application programming interfaces to individuals, businesses, governments on a metered basis called pay-as-you-go. It has more than 70 services and they contain computing, storage, networking, database, deployment, management, analytics and tools for the Internet. For platform as a service (PaaS), Google App Engine provides a great environment in order to make and connect cloud services. It provides with computing and hosting services, networking, databases, machine learning and etc. For software as a service (SaaS), Adobe products or Visual Studio can be good instances. For example, Adobe Photoshop has scalability, which is that any user can only install, auto-update meant that it updates itself, accessibility which is using it in any kind of device.   
+Table
+
+Name and Price	OS support	Short Description	Benefits	Limitations
+Computers
+iMac Desktops
+$1,299.00	Mac OS	3.6GHz quad-core 8th-generation Intel Core i5 processor, 8GB 2400MHz DDR4 memory, configurable up to 32GB	a powerful processor, retina display, and a variety of built-in ports to connect all the additional sources	Price is high, difficult to customize
+Windows PC
+General Price:
+$600-$900	Windows 	3.0GHz quad-core 7th-generation Intel Core i7 processor, 8GB Ram, 4k-display	Price is great, supports lots of servers, packs and tools, touch-screen	For creating iOS apps, they don’t have features
+Software
+Cloud-based 
+Project-management tools and packs
+Trello
+Free for limited usage
+Business class: $9.99/per year	Cloud-based
+SaaS, Google Chrome, Opera, Firefox, Safari	It is made by Atlassian, is used for project management	Tasks can be divided easily, time-management,
+sharing files	Not designed for everyone, limited views,
+Not a fully-featured PM tool
+GitHub
+Free for Publicly use
+Team: $21	Cloud-based, SaaS, Google Chrome, Safari, Firefox, Opera	Great tool for collaboration and team usage 	Team access controls, backup, markdown, collaboration	Security, Pricing
+On-premises based 
+Project-management tools 
+Jira
+Free for limited usage
+Premium: $14/user/month	Cloud-based, on-premises, SaaS, Safari, Opera, Google Chrome	It is made by Atlassian, is used for project management	Planning sprints, manage issues, track project performance	Complex integration
+Developer tools
+Xcode
+Latest Version: Xcode 11
+Price: free but $99/year for joining Apple’s
+developer program 	MacOS/Linux, Safari	It develops software for iOS, macOS, watchOS, iPadOS, and tvOS	This helps the users support source code for the programming
+languages Java, Python, Ruby, C++ 	Extra management of servers and bots, for only MacOS
+Android Studio
+Price: Open/Free Source	MacOS/Windows/Linux
+	Official integrated development environment for Android	Simple app acceptance process, hardware independence, learning resources	Android user spending habit, security issues, OS adoption fragmentation
+Designer tools
+Adobe Xd
+Free for starter plan with all features
+Premium: $9.99/month with unlimited shared prototypes
+	Windows/MacOS	One of Adobe Products, great designing tool for app development	All types of artboards, tutorials, simple and clean interfaces, repeat grid feature, most explicit feature of the Software	Repeating objects thing does not work as it should, no way to design customized shapes
+Adobe Photoshop
+Individual: $20.99/month
+	MacOS/Windows	One of Adobe Products, pixel-based designing tool	Easy to use, cross-platform,
+Animation making	No vector graphics
+InVision Studio
+Free trial
+Starting Price: $15.00/user/month 	Mac/Windows	Digital Product Design platform 	Effortless design and prototyping, easy design integration	A bit slow, limited customer support services
+Testing tools
+TestingWhiz
+Free trial/30 days
+Premium: $24.99/user/month	Windows/Mac	TestingWhiz is a venture of Cygnet Infotech, a CMMi Level 3 IT services company based in USA, South Africa, Australia & India	Integrated OCR Capability using
+Google Vision API and Tesseract, 
+Integrated PDF and Excel Commands, 
+Integrated Python Editor Integrated Mobile Recorder	Hybrid apps are limited tested
+Testcomplete
+Starting: $5,803	Mac/Windows/Linux	The Easiest-to-Use Automated UI Testing Toolwith Artificial Intelligence	Unmatched Object Recognition Engine now including Artificial Intelligence
+	Very high price
+
+Justification and recommendation
+For computers and servers, it is highly recommended that 2 or 3 iMac desktops and 2 or 3 laptops working on Windows OS. iMacs are used for both Android and iOS apps. Configurations are 3.6GHz quad-core 8th-generation Intel Core i5 processor, and 8GB RAM, 512 GB SSD, 1TB hard drive. Prices are good enough, from $600 to $1,300. 
+For project management, GitHub and Trello are best practices. Firstly, GitHub is a significantly great tool for collaboration. For public projects, it requires no monthly fee. However, any other usage plans have fees from $7 to $22. Lots of developers like Zen feature. This supports about two hundred languages, working back-up, easy control and problem tracking. GitHub is recommended for app management and is highly used all over the world. Security is one of the disadvantages of GitHub, hacking is easier in storage sources. Another tool which is recommend for project management is Trello. It is free for limited usage, and has business class which has $9.99 for one year. With this tool, tasks can be divided easily, teams can achieve their time-management, they can share files, images and etc. However, it is not designed for everyone, has limited views and is not a fully-featured PM tool. But it provides great efficiency. Overall, GitHub and Trello are great tools for project management.
+For designer tools, Adobe Xd is one of the important tools which can work on both iOS and Windows OS. It is free for starter plans and $9.99 per user which is cheap enough. It works with vector measurements and has high quality working conditions. It has all types of artboards, tutorials, simple and clean interfaces, repeat grid feature, most explicit feature of the software. Another tool is Adobe Photoshop which provides $20.99/year license for every individual. It works with pixel graphics. Also, in this program animations can be made.
+For developer tools, best tools are Xcode and Android studio. Android studio is an open source tool. Xcode can be used freely as an Apple’s subscriber. Android studio can work on Mac OS, Windows OS and Linux. Xcode can be used on Mac OS and Linux. Xcode helps the users support source code for the programming languages Java, Python, Ruby, C++. Android studio has simple app acceptance process, hardware independence, learning resources as well.
+For testing tools, TestingWhiz and Testcomplete can be great tools. TestingWhiz has free trial for 30 days and after that it has a 24.99-dollar fee. It can work on both iOS and Windows and has Integrated OCR Capability using Google Vision API and Tesseract, Integrated PDF and Excel Commands, Integrated Python Editor Integrated Mobile Recorder. Testcomplete is also a great tool but has very high price.
+Conclusion 
+To sum up, in order to start a new company for mobile app development which has two: Android and iOS app aspects, in general, this company needs iMacs and Windows Laptops. And it needs Xcode or Android studio as a developer tool, GitHub or Trello for project management, Adobe products for designing, TestingWhiz for testers. All products were given in their maximum efficiency.
+GitHub
+Link: https://github.com/00008085/CW1.FIT.8085.7965 
+Google Docs
+Link: https://docs.google.com/document/d/1_yIFQOfrRQQ032n_pIW7dhGMoQupJc9O4_gRshgXIhU/edit# 
+
+ 
+Reference
+Haije, E.G. (2019). Top 20 mobile development tools: An overview. Mopinion. Available from https://mopinion.com/mobile-development-tools-an-overview/ [Accessed on 13th March, 2020]
+How to choose the best Mac for App Development. (2019). Mackeeper. Available from https://mackeeper.com/blog/post/590-mac-for-app-development/ [Accessed on 14th March, 2020]
+Maruti Techlabs. (2018). Eleven best Prototyping Tools for UI/UX. Theuxblog. Available from https://medium.theuxblog.com/11-best-prototyping-tools-for-ui-ux-designers-how-to-choose-the-right-one-c5dc69720c47 [Accessed on 13th March, 2020]
+Satasiya, P. (2019). Top Ten Automated Software Testing tools. Dzone. Available from https://dzone.com/articles/top-10-automated-software-testing-tools [Accessed on 13th March, 2020]
+Smyrnova, T. (2019). Choosing the right backend for mobile app development. Syndicode. Available from https://syndicode.com/2019/09/06/choosing-the-right-backend-for-mobile-app-development/ [Accessed on 14th March, 2020]
+Watts, S. (2019). SaaS vs PaaS vs IaaS: What’s the difference and how to choose. Bmc. Available from https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/ [Accessed on 15th March, 2020]
+
+
